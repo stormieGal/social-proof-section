@@ -179,6 +179,8 @@ footer {
   .testimonies.row {
     flex-flow: row nowrap;
     justify-content: space-between;
+
+    margin: auto 4em;
   }
   .col-1 {
     flex: 0 0 30%;
